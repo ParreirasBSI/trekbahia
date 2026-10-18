@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "id": "u1",
+      "nome": "Ana Souza",
+      "email": "ana@trekbahia.com",
+      "senha": "123456"
+    },
+    {
+      "id": "u2",
+      "nome": "Carlos Lima",
+      "email": "carlos@trekbahia.com",
+      "senha": "123456"
+    }
+  ]
+}

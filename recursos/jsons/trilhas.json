@@ -1,0 +1,155 @@
+{
+  "trilhas": [
+    {
+      "id": 1,
+      "nome": "Cachoeira da Fumaça",
+      "cidade": "Palmeiras",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Difícil",
+      "distanciaKm": 12.0,
+      "duracao": "5h a 6h (ida e volta)",
+      "descricao": "Uma das maiores quedas d'água do Brasil. A trilha sobe até o mirante no topo da queda, com vista para o vale.",
+      "dicas": [
+        "Saia cedo para evitar o calor",
+        "Leve pelo menos 2 litros de água",
+        "Use tênis com boa aderência",
+        "Contrate um guia credenciado"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Morro do Pai Inácio",
+      "cidade": "Palmeiras",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Fácil",
+      "distanciaKm": 1.0,
+      "duracao": "30 min a 1h",
+      "descricao": "Subida curta até um dos cartões-postais da Chapada, famoso pelo pôr do sol.",
+      "dicas": [
+        "Chegue 1h antes do pôr do sol",
+        "Leve lanterna para a descida",
+        "Cuidado com as pedras soltas"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Cachoeira do Buracão",
+      "cidade": "Ibicoara",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Moderada",
+      "distanciaKm": 7.0,
+      "duracao": "3h a 4h (ida e volta)",
+      "descricao": "Queda de cerca de 85 metros dentro de um cânion. O acesso inclui trecho de caminhada e travessia de rio.",
+      "dicas": [
+        "Leve roupa de banho e uma muda de roupa",
+        "Use calçado que possa molhar",
+        "Atenção ao nível do rio em época de chuva"
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Poço Azul",
+      "cidade": "Nova Redenção",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Fácil",
+      "distanciaKm": 0.5,
+      "duracao": "1h",
+      "descricao": "Gruta com águas cristalinas de cor azul intensa, ideal para flutuar com colete.",
+      "dicas": [
+        "O melhor horário é perto do meio-dia",
+        "Colete salva-vidas é obrigatório",
+        "Leve toalha"
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Cachoeira do Sossego",
+      "cidade": "Lençóis",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Fácil",
+      "distanciaKm": 6.0,
+      "duracao": "2h a 3h (ida e volta)",
+      "descricao": "Trilha tranquila até uma cachoeira com piscina natural, boa para quem está começando.",
+      "dicas": [
+        "Use repelente",
+        "Leve lanche leve",
+        "Respeite a trilha demarcada"
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Vale do Pati",
+      "cidade": "Andaraí",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Difícil",
+      "distanciaKm": 60.0,
+      "duracao": "3 a 5 dias",
+      "descricao": "Travessia clássica do Parque Nacional, passando por vales, mirantes e casas de moradores que hospedam os trilheiros.",
+      "dicas": [
+        "Faça a travessia com guia",
+        "Treine antes com mochila carregada",
+        "Reserve as hospedagens com antecedência"
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Cachoeira da Purificação",
+      "cidade": "Palmeiras (Vale do Capão)",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Moderada",
+      "distanciaKm": 8.0,
+      "duracao": "3h a 4h (ida e volta)",
+      "descricao": "Caminhada pelo Vale do Capão até uma queda cercada de mata e rochas.",
+      "dicas": [
+        "Leve capa de chuva",
+        "Água potável é essencial",
+        "Evite ir sozinho"
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Morrão",
+      "cidade": "Palmeiras (Vale do Capão)",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Moderada",
+      "distanciaKm": 6.0,
+      "duracao": "3h a 4h (ida e volta)",
+      "descricao": "Subida até um mirante com vista ampla do vale, muito procurado para ver o nascer do sol.",
+      "dicas": [
+        "Leve agasalho, pois venta no topo",
+        "Saia de madrugada com lanterna",
+        "Cuidado nos trechos de pedra"
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Pico do Barbado",
+      "cidade": "Rio de Contas",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Difícil",
+      "distanciaKm": 16.0,
+      "duracao": "7h a 9h (ida e volta)",
+      "descricao": "Um dos pontos mais altos do Nordeste. A caminhada passa por campos de altitude e termina em vista de 360 graus.",
+      "dicas": [
+        "Verifique a previsão do tempo",
+        "Leve agasalho e corta-vento",
+        "Comece muito cedo"
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Poço do Diabo",
+      "cidade": "Lençóis",
+      "regiao": "Chapada Diamantina",
+      "dificuldade": "Fácil",
+      "distanciaKm": 3.0,
+      "duracao": "1h30 a 2h",
+      "descricao": "Cachoeira com piscina natural de água escura, de fácil acesso e boa para um mergulho.",
+      "dicas": [
+        "Use calçado fechado",
+        "Leve protetor solar",
+        "Não deixe lixo na trilha"
+      ]
+    }
+  ]
+}
