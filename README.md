@@ -20,11 +20,21 @@ Feito em **Dart + Flutter**, com `provider` para o estado e `toast` para os avis
 
 ## Como executar
 
+Pré-requisitos: Flutter instalado e Android SDK configurado (confira com `flutter doctor`).
+
+O app foi testado em um **celular Android físico** (Samsung Galaxy S25 FE), sem usar o emulador do Android SDK.
+
+1. No celular, ative as **Opções do desenvolvedor** e a **Depuração USB**.
+2. Conecte o celular ao computador por cabo USB e aceite o aviso "Permitir depuração USB".
+3. No terminal, dentro da pasta do projeto:
+
 ```bash
-flutter create --project-name trekbahia .   # gera as pastas android/ios (uma vez)
 flutter pub get
-flutter run                                  # com o emulador do Android SDK aberto
+flutter devices          # o celular deve aparecer na lista
+flutter run --release
 ```
+
+Também é possível rodar em um emulador Android (`flutter run`) ou no navegador (`flutter run -d chrome`).
 
 ## Estrutura
 
